@@ -60,8 +60,8 @@
 
 /* The whole bar */
 #waybar {
-	background: rgba(40, 40, 40, 0.8784313725); /* #282828e0 */
-	color: @white;
+	background: rgba(235, 219, 178, 0.8784313725); /* #282828e0 */
+	color: @black;
 	font-family: Source Code Pro Medium, Siji;
 	font-size: 10pt;
 	/*font-weight: bold;*/

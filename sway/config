@@ -3,14 +3,26 @@
 # Copy this to ~/.config/sway/config and edit it to your liking.
 #
 # Read `man 5 sway` for a complete reference.
+
+# Essential programs
 exec_always autotiling
 exec_always swaykbdd
 exec_always wl-gammactl -c 0.9 -b 1 -g 0.8 
 exec_always gammastep -l 50.4547:30.5238 -t 3000k:3000k
 
+# Styling
+font pango: Source Code Pro Medium 14
 default_border pixel 2
+gaps inner 3px
+gaps outer 3px
 
-font pango: Cantarell 14
+# Making screenshots
+# Full-screen screenshot with timestamp → swappy → clipboard
+bindsym Shift+Print exec grim - | swappy -f - -o /tmp/screenshot-$(date +'%Y%m%d-%H%M%S').png && wl-copy < /tmp/screenshot-$(ls -t /tmp/screenshot-*.png | head -n 1)
+# Select an area → swappy → save with timestamp → copy to clipboard
+bindsym Print exec grim -g \"$(slurp)\" - | swappy -f - -o /tmp/screenshot-$(date +'%Y%m%d-%H%M%S').png && wl-copy < /tmp/screenshot-$(ls -t /tmp/screenshot-*.png | head -n 1)
+
+
 
 ### Variables
 #
@@ -230,7 +242,7 @@ bindsym $mod+r mode "resize"
     bindsym --locked XF86MonBrightnessDown exec brightnessctl set 5%-
     bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
     # Special key to take a screenshot with grim
-    bindsym Print exec grim
+    #bindsym Print exec grim
 
 #
 # Status Bar:

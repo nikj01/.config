@@ -1,2 +1,3 @@
-2025/01/29-19:56:56.713 d1e Creating DB /home/nick/.config/Postman/Partitions/b7dd753e-234d-4624-87c9-4c67ec69b1a8/Service Worker/Database since it was missing.
-2025/01/29-19:56:56.714 d1e Reusing MANIFEST /home/nick/.config/Postman/Partitions/b7dd753e-234d-4624-87c9-4c67ec69b1a8/Service Worker/Database/MANIFEST-000001
+2025/01/29-23:26:33.896 133c Reusing MANIFEST /home/nick/.config/Postman/Partitions/b7dd753e-234d-4624-87c9-4c67ec69b1a8/Service Worker/Database/MANIFEST-000001
+2025/01/29-23:26:33.901 133c Recovering log #3
+2025/01/29-23:26:33.902 133c Reusing old log /home/nick/.config/Postman/Partitions/b7dd753e-234d-4624-87c9-4c67ec69b1a8/Service Worker/Database/000003.log 

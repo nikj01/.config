@@ -70,7 +70,7 @@
       <file>
         <entry file="file://$PROJECT_DIR$/apps/people/src/people/people.controller.ts">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="168">
+            <state relative-caret-position="1344">
               <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
               <folding>
                 <element signature="e#0#159#0" expanded="true" />
@@ -88,7 +88,11 @@
       </file>
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env">
-          <provider editor-type-id="text-editor" selected="true" />
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="552">
+              <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+            </state>
+          </provider>
         </entry>
         <tab><![CDATA[{"tabTitle":".env","foregroundColor":-9276872,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"727238"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
@@ -97,20 +101,20 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Markdown": {
-      "usageCount": 8,
-      "lastUsed": 1738240610231
+      "usageCount": 9,
+      "lastUsed": 1738253948197
     },
     "PLAIN_TEXT": {
       "usageCount": 2,
       "lastUsed": 1738162640964
     },
     "TypeScript": {
-      "usageCount": 3,
-      "lastUsed": 1738240609755
+      "usageCount": 4,
+      "lastUsed": 1738253947617
     },
     ".env file": {
-      "usageCount": 6,
-      "lastUsed": 1738240609722
+      "usageCount": 8,
+      "lastUsed": 1738253947614
     }
   }
 }]]></component>
@@ -128,16 +132,16 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="DotEnv">
-      <summary usageCount="6" lastUsage="1738240609722" />
+      <summary usageCount="8" lastUsage="1738253947614" />
     </language>
     <language id="Markdown">
-      <summary usageCount="8" lastUsage="1738240610231" />
+      <summary usageCount="9" lastUsage="1738253948197" />
     </language>
     <language id="TEXT">
       <summary usageCount="2" lastUsage="1738162640968" />
     </language>
     <language id="TypeScript">
-      <summary usageCount="3" lastUsage="1738240609755" />
+      <summary usageCount="4" lastUsage="1738253947617" />
     </language>
   </component>
   <component name="ProjectView">
@@ -312,7 +316,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.33034027" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.29631382" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.29606527" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
@@ -321,7 +325,7 @@
       <window_info anchor="right" id="github.copilotToolWindow" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.25" />
       <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
-      <unified_weights bottom="0.29631382" left="0.32959288" />
+      <unified_weights bottom="0.29606527" left="0.32959288" />
     </layoutV2>
     <recentWindows>
       <value>Terminal</value>
@@ -347,15 +351,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env.example">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/people/src/people/people.controller.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="1344">
           <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
           <folding>
             <element signature="e#0#159#0" expanded="true" />
