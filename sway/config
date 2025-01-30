@@ -5,7 +5,8 @@
 # Read `man 5 sway` for a complete reference.
 exec_always autotiling
 exec_always swaykbdd
-exec_always wl-gammactl -c 0.9 -b 0.7 -g 0.8 
+exec_always wl-gammactl -c 0.9 -b 1 -g 0.8 
+exec_always gammastep -l 50.4547:30.5238 -t 3000k:3000k
 
 default_border pixel 2
 
@@ -24,6 +25,12 @@ set $right l
 set $term foot
 # Your preferred application launcher
 set $menu wofi --show drun
+
+# Controll screen brightness
+
+bindsym $mod+Shift+Up exec brightnessctl set +5%
+bindsym $mod+Shift+Down exec brightnessctl set 5%-
+
 
 ### Output configuration
 #
@@ -119,10 +126,10 @@ exec swayidle -w \
     bindsym $mod+Shift+$up move up
     bindsym $mod+Shift+$right move right
     # Ditto, with arrow keys
-    bindsym $mod+Shift+Left move left
-    bindsym $mod+Shift+Down move down
-    bindsym $mod+Shift+Up move up
-    bindsym $mod+Shift+Right move right
+#    bindsym $mod+Shift+Left move left
+#    bindsym $mod+Shift+Down move down
+#    bindsym $mod+Shift+Up move up
+#    bindsym $mod+Shift+Right move right
 #
 # Workspaces:
 #
