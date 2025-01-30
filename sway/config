@@ -239,8 +239,8 @@ bindsym $mod+r mode "resize"
     bindsym --locked XF86AudioPrev exec playerctl previous
 
     # Special keys to adjust brightness via brightnessctl
-    bindsym $mod+Shift+Up exec brightnessctl set +5%
-    bindsym $mod+Shift+Down exec brightnessctl set 5%-
+    bindsym $mod+Shift+Up exec brightnessctl set +1%
+    bindsym $mod+Shift+Down exec brightnessctl set 1%-
    
     # Logout/Reboot/Shutdown
     bindsym $mod+Shift+W exec wlogout
