@@ -63,7 +63,7 @@
 	background: rgba(235, 219, 178, 0.8784313725); /* #282828e0 */
 	color: @black;
 	font-family: Source Code Pro Medium, Siji;
-	font-size: 10pt;
+	font-size: 13pt;
 	/*font-weight: bold;*/
 }
 
@@ -205,61 +205,61 @@
 }
 
 #custom-arrow1 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @time;
 	background: @date;
 }
 
 #custom-arrow2 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @date;
 	background: @layout;
 }
 
 #custom-arrow3 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @layout;
 	background: @battery;
 }
 
 #custom-arrow4 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @battery;
 	background: @temp;
 }
 
 #custom-arrow5 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @temp;
 	background: @cpu;
 }
 
 #custom-arrow6 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @cpu;
 	background: @memory;
 }
 
 #custom-arrow7 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @memory;
 	background: @network;
 }
 
 #custom-arrow8 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @network;
 	background: @sound;
 }
 
 #custom-arrow9 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @sound;
 	background: transparent;
 }
 
 #custom-arrow10 {
-	font-size: 10pt;
+	font-size: 13pt;
 	color: @unfocused;
 	background: transparent;
 }
