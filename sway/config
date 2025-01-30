@@ -9,6 +9,7 @@ exec_always autotiling
 exec_always swaykbdd
 exec_always wl-gammactl -c 0.9 -b 1 -g 0.8 
 exec_always gammastep -l 50.4547:30.5238 -t 3000k:3000k
+exec_always flatpak run com.surfshark.Surfshark
 
 # Styling
 font pango: Source Code Pro Medium 14
