@@ -70,7 +70,7 @@
       <file>
         <entry file="file://$PROJECT_DIR$/apps/people/src/people/people.controller.ts">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="1344">
+            <state relative-caret-position="168">
               <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
               <folding>
                 <element signature="e#0#159#0" expanded="true" />
@@ -97,20 +97,20 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Markdown": {
-      "usageCount": 7,
-      "lastUsed": 1738186821918
+      "usageCount": 8,
+      "lastUsed": 1738240610231
     },
     "PLAIN_TEXT": {
       "usageCount": 2,
       "lastUsed": 1738162640964
     },
     "TypeScript": {
-      "usageCount": 2,
-      "lastUsed": 1738186821401
+      "usageCount": 3,
+      "lastUsed": 1738240609755
     },
     ".env file": {
-      "usageCount": 4,
-      "lastUsed": 1738186821386
+      "usageCount": 6,
+      "lastUsed": 1738240609722
     }
   }
 }]]></component>
@@ -128,16 +128,16 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="DotEnv">
-      <summary usageCount="4" lastUsage="1738186821386" />
+      <summary usageCount="6" lastUsage="1738240609722" />
     </language>
     <language id="Markdown">
-      <summary usageCount="7" lastUsage="1738186821918" />
+      <summary usageCount="8" lastUsage="1738240610231" />
     </language>
     <language id="TEXT">
       <summary usageCount="2" lastUsage="1738162640968" />
     </language>
     <language id="TypeScript">
-      <summary usageCount="2" lastUsage="1738186821401" />
+      <summary usageCount="3" lastUsage="1738240609755" />
     </language>
   </component>
   <component name="ProjectView">
@@ -347,15 +347,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
+    <entry file="file://$PROJECT_DIR$/.env.example">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env.example">
+    <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/people/src/people/people.controller.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
+        <state relative-caret-position="168">
           <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
           <folding>
             <element signature="e#0#159#0" expanded="true" />

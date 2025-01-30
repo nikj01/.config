@@ -5,6 +5,7 @@
 # Read `man 5 sway` for a complete reference.
 exec_always autotiling
 exec_always swaykbdd
+exec_always wl-gammactl -c 0.9 -b 0.7 -g 0.8 
 
 default_border pixel 2
 
