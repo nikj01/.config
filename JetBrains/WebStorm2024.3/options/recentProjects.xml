@@ -4,15 +4,15 @@
       <map>
         <entry key="$USER_HOME$/WebstormProjects/people-project">
           <value>
-            <RecentProjectMetaInfo frameTitle="people-project – .env" opened="true" projectWorkspaceId="2sJ75iOZU4wub27fQzun9o9XzPW">
-              <option name="activationTimestamp" value="1738254024637" />
+            <RecentProjectMetaInfo frameTitle="people-project" opened="true" projectWorkspaceId="2sJ75iOZU4wub27fQzun9o9XzPW">
+              <option name="activationTimestamp" value="1738360075320" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-243.23654.157" />
               <option name="buildTimestamp" value="1737640740000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="8" y="31" width="1904" height="1041" extendedState="6" />
+              <frame x="12" y="35" width="1896" height="1033" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1738161643542" />
             </RecentProjectMetaInfo>

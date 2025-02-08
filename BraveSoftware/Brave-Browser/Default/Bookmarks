@@ -1,0 +1,80 @@
+{
+   "checksum": "018aeded9db40f2eadda0f9d46eda186",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13382880884629124",
+            "date_last_used": "0",
+            "guid": "49e18b9e-f9f9-4538-b77a-447efd1ccc0b",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13382880920404684",
+            "date_last_used": "0",
+            "guid": "cb135d8a-a8c4-46cd-8cb9-55a2e5ef9e93",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Telegram Web",
+            "type": "url",
+            "url": "https://web.telegram.org/k/"
+         }, {
+            "date_added": "13382880675812123",
+            "date_last_used": "0",
+            "guid": "65fb201d-7e6a-446e-8991-4fbf5bd2639c",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube Music",
+            "type": "url",
+            "url": "https://music.youtube.com/"
+         }, {
+            "date_added": "13383494172460311",
+            "date_last_used": "0",
+            "guid": "0e67876f-25be-4ca9-bc6a-45622c37ecb9",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Врата Карьеры | Немсон - Google Диск",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1N0Og_YVGd1JQMYhIp0_tgCu4nHDvYKKUx_wuRRh1dR8/htmlview"
+         } ],
+         "date_added": "13382875439319270",
+         "date_last_used": "0",
+         "date_modified": "13383494172460311",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13382875439319274",
+         "date_last_used": "0",
+         "date_modified": "13382880884629124",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13382875439319276",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

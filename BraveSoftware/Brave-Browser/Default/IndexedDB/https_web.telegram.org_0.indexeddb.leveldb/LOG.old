@@ -1,0 +1,21 @@
+2025/02/05-15:26:49.702 6fa Reusing MANIFEST /home/nick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/05-15:26:49.703 6fa Recovering log #42
+2025/02/05-15:26:49.717 6fa Reusing old log /home/nick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000042.log 
+2025/02/05-18:10:24.425 6eb Level-0 table #47: started
+2025/02/05-18:10:24.497 6eb Level-0 table #47: 1397920 bytes OK
+2025/02/05-18:10:24.505 6eb Delete type=0 #42
+2025/02/05-18:16:20.175 6ea Compacting 1@1 + 1@2 files
+2025/02/05-18:16:20.242 6ea Generated table #48@1: 683 keys, 189882 bytes
+2025/02/05-18:16:20.243 6ea Compacted 1@1 + 1@2 files => 189882 bytes
+2025/02/05-18:16:20.251 6ea compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-18:16:20.253 6ea Delete type=2 #47
+2025/02/05-18:16:20.255 6ea Delete type=2 #44
+2025/02/05-19:30:59.313 6eb Level-0 table #50: started
+2025/02/05-19:30:59.347 6eb Level-0 table #50: 1823219 bytes OK
+2025/02/05-19:30:59.350 6eb Delete type=0 #46
+2025/02/05-19:37:50.326 6eb Compacting 1@1 + 1@2 files
+2025/02/05-19:37:50.338 6eb Generated table #51@1: 685 keys, 192819 bytes
+2025/02/05-19:37:50.338 6eb Compacted 1@1 + 1@2 files => 192819 bytes
+2025/02/05-19:37:50.339 6eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-19:37:50.339 6eb Delete type=2 #50
+2025/02/05-19:37:50.339 6eb Delete type=2 #48

@@ -2,8 +2,18 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift alt quote" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
   <action id="Run" />
   <action id="ShowPopupMenu">

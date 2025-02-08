@@ -1,0 +1,19 @@
+2025/02/03-12:03:17.617 6fd Reusing MANIFEST /home/nick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/03-12:03:17.617 6fd Recovering log #13
+2025/02/03-12:03:17.617 6fd Reusing old log /home/nick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000013.log 
+2025/02/03-12:16:39.730 6fe Level-0 table #18: started
+2025/02/03-12:16:39.739 6fe Level-0 table #18: 1318579 bytes OK
+2025/02/03-12:16:39.741 6fe Delete type=0 #13
+2025/02/03-12:17:40.919 6fe Compacting 1@1 + 1@2 files
+2025/02/03-12:17:40.925 6fe Generated table #19@1: 356 keys, 42972 bytes
+2025/02/03-12:17:40.925 6fe Compacted 1@1 + 1@2 files => 42972 bytes
+2025/02/03-12:17:40.925 6fe compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/03-12:17:40.925 6fe Delete type=2 #18
+2025/02/03-12:17:40.926 6fe Delete type=2 #15
+2025/02/03-12:34:18.201 6fe Level-0 table #21: started
+2025/02/03-12:34:18.237 6fe Level-0 table #21: 2467087 bytes OK
+2025/02/03-12:34:18.240 6fe Delete type=0 #17
+2025/02/03-12:55:08.195 6fe Compacting 1@1 + 1@2 files
+2025/02/03-12:55:08.214 6fe Generated table #22@1: 381 keys, 29666 bytes
+2025/02/03-12:55:08.214 6fe Compacted 1@1 + 1@2 files => 29666 bytes
+2025/02/03-12:55:08.215 6fe compacted to: files[ 0 0 1 0 0 0 0 ]

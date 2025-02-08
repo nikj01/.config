@@ -1,0 +1,66 @@
+2025/02/05-15:26:51.967 6ea Reusing MANIFEST /home/nick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/05-15:26:51.967 6ea Recovering log #114
+2025/02/05-15:26:51.970 6ea Reusing old log /home/nick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000114.log 
+2025/02/05-15:28:03.925 6eb Level-0 table #119: started
+2025/02/05-15:28:03.933 6eb Level-0 table #119: 1434267 bytes OK
+2025/02/05-15:28:03.934 6eb Delete type=0 #114
+2025/02/05-15:28:48.932 6eb Compacting 1@1 + 1@2 files
+2025/02/05-15:28:48.937 6eb Generated table #120@1: 594 keys, 79490 bytes
+2025/02/05-15:28:48.937 6eb Compacted 1@1 + 1@2 files => 79490 bytes
+2025/02/05-15:28:48.938 6eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-15:28:48.938 6eb Delete type=2 #116
+2025/02/05-15:28:48.938 6eb Delete type=2 #119
+2025/02/05-15:37:18.797 6eb Level-0 table #122: started
+2025/02/05-15:37:18.839 6eb Level-0 table #122: 1546727 bytes OK
+2025/02/05-15:37:18.843 6eb Delete type=0 #118
+2025/02/05-15:38:14.804 6eb Compacting 1@1 + 1@2 files
+2025/02/05-15:38:14.833 6eb Generated table #123@1: 622 keys, 107180 bytes
+2025/02/05-15:38:14.834 6eb Compacted 1@1 + 1@2 files => 107180 bytes
+2025/02/05-15:38:14.835 6eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-15:38:14.836 6eb Delete type=2 #120
+2025/02/05-15:38:14.836 6eb Delete type=2 #122
+2025/02/05-17:00:03.328 6eb Level-0 table #125: started
+2025/02/05-17:00:03.370 6eb Level-0 table #125: 1821696 bytes OK
+2025/02/05-17:00:03.374 6eb Delete type=0 #121
+2025/02/05-17:02:30.182 6ec Compacting 1@1 + 1@2 files
+2025/02/05-17:02:30.193 6ec Generated table #126@1: 790 keys, 144401 bytes
+2025/02/05-17:02:30.194 6ec Compacted 1@1 + 1@2 files => 144401 bytes
+2025/02/05-17:02:30.195 6ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-17:02:30.195 6ec Delete type=2 #125
+2025/02/05-17:02:30.195 6ec Delete type=2 #123
+2025/02/05-18:04:31.429 6eb Level-0 table #128: started
+2025/02/05-18:04:31.450 6eb Level-0 table #128: 1811653 bytes OK
+2025/02/05-18:04:31.453 6eb Delete type=0 #124
+2025/02/05-18:12:37.961 6ec Compacting 1@1 + 1@2 files
+2025/02/05-18:12:37.982 6ec Generated table #129@1: 801 keys, 110808 bytes
+2025/02/05-18:12:37.982 6ec Compacted 1@1 + 1@2 files => 110808 bytes
+2025/02/05-18:12:37.983 6ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-18:12:37.984 6ec Delete type=2 #126
+2025/02/05-18:12:37.984 6ec Delete type=2 #128
+2025/02/05-18:33:21.447 6eb Level-0 table #131: started
+2025/02/05-18:33:21.481 6eb Level-0 table #131: 1546482 bytes OK
+2025/02/05-18:33:21.488 6eb Delete type=0 #127
+2025/02/05-18:33:24.185 6eb Compacting 1@1 + 1@2 files
+2025/02/05-18:33:24.206 6eb Generated table #132@1: 691 keys, 196537 bytes
+2025/02/05-18:33:24.206 6eb Compacted 1@1 + 1@2 files => 196537 bytes
+2025/02/05-18:33:24.207 6eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-18:33:24.208 6eb Delete type=2 #129
+2025/02/05-18:33:24.209 6eb Delete type=2 #131
+2025/02/05-18:34:37.240 6ec Level-0 table #134: started
+2025/02/05-18:34:37.263 6ec Level-0 table #134: 1463220 bytes OK
+2025/02/05-18:34:37.266 6ec Delete type=0 #130
+2025/02/05-18:35:09.184 6eb Compacting 1@1 + 1@2 files
+2025/02/05-18:35:09.197 6eb Generated table #135@1: 627 keys, 81662 bytes
+2025/02/05-18:35:09.197 6eb Compacted 1@1 + 1@2 files => 81662 bytes
+2025/02/05-18:35:09.198 6eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-18:35:09.198 6eb Delete type=2 #132
+2025/02/05-18:35:09.198 6eb Delete type=2 #134
+2025/02/05-18:54:14.233 6ec Level-0 table #137: started
+2025/02/05-18:54:14.248 6ec Level-0 table #137: 1249065 bytes OK
+2025/02/05-18:54:14.249 6ec Delete type=0 #133
+2025/02/05-19:04:30.179 6eb Compacting 1@1 + 1@2 files
+2025/02/05-19:04:30.192 6eb Generated table #138@1: 655 keys, 69805 bytes
+2025/02/05-19:04:30.193 6eb Compacted 1@1 + 1@2 files => 69805 bytes
+2025/02/05-19:04:30.193 6eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/05-19:04:30.194 6eb Delete type=2 #137
+2025/02/05-19:04:30.194 6eb Delete type=2 #135

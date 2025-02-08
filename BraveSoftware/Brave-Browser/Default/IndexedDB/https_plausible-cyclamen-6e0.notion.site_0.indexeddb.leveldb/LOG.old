@@ -1,0 +1,10 @@
+2025/02/04-15:56:30.428 6bb Creating DB /home/nick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_plausible-cyclamen-6e0.notion.site_0.indexeddb.leveldb since it was missing.
+2025/02/04-15:56:30.430 6bb Reusing MANIFEST /home/nick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_plausible-cyclamen-6e0.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/04-15:56:30.966 6bd Level-0 table #5: started
+2025/02/04-15:56:30.967 6bd Level-0 table #5: 2223 bytes OK
+2025/02/04-15:56:30.968 6bd Delete type=0 #3
+2025/02/04-15:56:30.968 6bc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/04-20:01:50.392 6bd Level-0 table #7: started
+2025/02/04-20:01:50.393 6bd Level-0 table #7: 1054 bytes OK
+2025/02/04-20:01:50.394 6bd Delete type=0 #4
+2025/02/04-20:01:50.394 6bb Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
